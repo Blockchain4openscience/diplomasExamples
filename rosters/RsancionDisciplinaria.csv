@@ -1,6 +1,6 @@
-1013;juan.uno@urosario.edu.co;Juan Uno;juan1PK;1234567890;economia;expulsion;1;falsedad documento;01/08/2015;25/02/2015;A23040
-1014;juan.dos@urosario.edu.co;Juan Dos;juan2PK;2345679001;jurisprudencia;matricula condicional;2;copia;01/08/2015;25/02/2015;A21052
-1015;juan.tres@urosario.edu.co;Juan Tres;juan3PK;3456790112;biologia;refuerzo;3;perdida de cupo;01/08/2015;25/02/2015;A34890
-1016;juan.cuatro@urosario.edu.co;Juan Cuatro;juan4PK;4567901223;medicina;expulsion;1;falsedad documento;01/08/2015;25/02/2015;A98777
-1017;juan.cinco@urosario.edu.co;Juan Cinco;juan5PK;5679012334;administraion;matricula condicional;2;copia;01/08/2015;25/02/2015;A98790
-1018;juan.seis@urosario.edu.co;Juan Seis;juan6PK;6790123445;matematicas;refuerzo;3;perdida de cupo;01/08/2015;25/02/2015;A21333
+1013,juan.uno@urosario.edu.co,Juan Uno,juan1PK,1234567890,economia,expulsion,1,falsedad documento,2015-08-01,2015-02-25,A23040
+1014,juan.dos@urosario.edu.co,Juan Dos,juan2PK,2345679001,jurisprudencia,matricula condicional,2,copia,2015-08-01,2015-02-25,A21052
+1015,juan.tres@urosario.edu.co,Juan Tres,juan3PK,3456790112,biologia,refuerzo,3,perdida de cupo,2015-08-01,2015-02-25,A34890
+1016,juan.cuatro@urosario.edu.co,Juan Cuatro,juan4PK,4567901223,medicina,expulsion,1,falsedad documento,2015-08-01,2015-02-25,A98777
+1017,juan.cinco@urosario.edu.co,Juan Cinco,juan5PK,5679012334,administraion,matricula condicional,2,copia,2015-08-01,2015-02-25,A98790
+1018,juan.seis@urosario.edu.co,Juan Seis,juan6PK,6790123445,matematicas,refuerzo,3,perdida de cupo,2015-08-01,2015-02-25,A21333
